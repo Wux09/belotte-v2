@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588335153 source:c:\users\omar\desktop\utbm\tc02\ifb\projet belote\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet_belote.h"
+
+1588335318 c:\users\omar\desktop\utbm\tc02\ifb\projet belote\projet_belote.h
+
+1588084370 source:c:\users\omar\desktop\utbm\tc02\ifb\projet belote\projet_belote.c
+	"projet_belote.h"
+	<strings.h>
+	<stdio.h>
+	<stdlib.h>
+
